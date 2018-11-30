@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: BlockButton
+  m_Controller: {fileID: 9100000, guid: b80b5f3bd96ab70488a31fd0b2a7bea6, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 0dfc6521d24caf44895145541b301800, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 97b5ae7bf3eb86241a34afb038199d74, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: b2398c860e3c4b249ae0355fe8fd2022, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 488adce9bf96da54092cb639972ad0ab, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 14faed9332e16e14fac399f8acc4f9d5, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 6a068118dfe3a9041878a7ef6b1a9ca7, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: f7e4301b7299afa4ea346659c1bbce1d, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: a5ad39b0c908645468d238a46a767e31, type: 2}
