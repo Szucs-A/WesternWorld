@@ -4,6 +4,10 @@
 [Bb]uild/
 [Bb]uilds/
 Assets/AssetStoreTools*
+iOs/
+iOs.zip
+WesternEnd.zip
+WesternEnd/
 
 # Visual Studio cache directory
 .vs/
