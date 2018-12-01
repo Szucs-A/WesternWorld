@@ -1,3 +1,4 @@
+![promo](https://user-images.githubusercontent.com/35391412/49332242-a3a1bf80-f577-11e8-8f9d-bea074eaa7dc.png)
 # WesternWorld
 Welcome to the Western World! This is a simple strategy game for iOs and Android that was developed in Unity. It contains ten levels with different scaling AI, a shop with items to make your completion of the game easier, and only on Android it contains multiplayer!
 
