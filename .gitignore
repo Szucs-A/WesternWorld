@@ -8,8 +8,13 @@ iOs/
 iOs.zip
 WesternEnd.zip
 WesternEnd/
+<<<<<<< HEAD
 Assets/Sounds.meta
 Assets/Sounds
+=======
+Assets/Sounds/
+Assets/Sounds.meta
+>>>>>>> 1a13f2daf273c7b8cddc441ce6f769b7397ea780
 
 # Visual Studio cache directory
 .vs/
