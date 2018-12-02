@@ -4,11 +4,12 @@ Welcome to the Western World! This is a simple strategy game for iOs and Android
 
 This game has been deployed to the App Store and Google Play, check it out!
 
- [Getting Started](#Getting-Started)
+Quick Links:
+- [Getting Started](#Getting-Started)
+
+- [Running Western World](#Running-Western-World)
  
- [Running Western World](#Running-Western-World)
- 
- [Screenshots](#Screenshots)
+- [Screenshots](#Screenshots)
 
 ## Getting Started
 These simple set of instructuions will get Western World up and running within Unity on your computer.
