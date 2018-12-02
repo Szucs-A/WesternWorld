@@ -47,5 +47,6 @@ After gathering what was required; playing the game is simply opening and runnin
 This project is licensed under the GPL-3.0 License, please see the LICENSE file for details.
 
 ## Acknowledgements
-unfortunately, I could not include the sounds and music for Western World due to a EULA but this will not effect the project.
-Also thanks to [Tessa Violet](https://www.patreon.com/TessaViolet) for allowing LOFIs to be used by patreons with credit and the [TextMeshPro](https://assetstore.unity.com/packages/essentials/beta-projects/textmesh-pro-84126) plug-in.
+Unfortunately, I could not include the sounds and music for Western World due to a EULA but this will not effect the project.
+
+Also thanks to [Tessa Violet](https://www.patreon.com/TessaViolet) for allowing LOFIs to be used by patreons with credit and the [TextMesh Pro](https://assetstore.unity.com/packages/essentials/beta-projects/textmesh-pro-84126) plug-in.
