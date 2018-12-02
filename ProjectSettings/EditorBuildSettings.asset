@@ -9,17 +9,18 @@ EditorBuildSettings:
     path: Assets/Scenes/MainMenu.unity
     guid: 3657692b87f72b842b052875339d818e
   - enabled: 1
-    path: Assets/Scenes/SingleplayerMenu.unity
+    path: Assets/Scenes/Others/SingleplayerMenu.unity
     guid: 96910c8453d44b94f8b0e7083f351f3f
   - enabled: 1
-    path: Assets/Scenes/PUNMultiplayerMenu.unity
+    path: Assets/Scenes/Others/PUNMultiplayerMenu.unity
     guid: e538bcb6b6a564c458eb127c10a8fc71
   - enabled: 1
-    path: Assets/Scenes/PUNGame.unity
+    path: Assets/Scenes/Others/PUNGame.unity
     guid: 19679581d1706504aa5fdc2151102228
   - enabled: 1
-    path: Assets/Scenes/Game.unity
+    path: Assets/Scenes/Others/Game.unity
     guid: 7f45488b05a5b274f80df4eb800ca266
   - enabled: 1
-    path: Assets/Scenes/Shop.unity
+    path: Assets/Scenes/Others/Shop.unity
     guid: 1c07f831fbe717a4bbce01070e4ac877
+  m_configObjects: {}
