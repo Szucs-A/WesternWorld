@@ -30,11 +30,8 @@ You can download the source code for Western World by a couple of methods.
 ### Running Western World
 After gathering what was required; playing the game is simple. 
   1. Start by opening the project in the Hub/Unity
-  
   2. Then allow Unity to update depricated functions (Bring the project to a newer version of Unity)
-  
   3. Then navigate to the project files inside Unity, find the *Scenes* folder and within it, double-click the *Main-Menu* scene.
-  
   4. Lastly, with the *Main-Menu* scene open, you can simply run the game by clicking the play button at the top of Unity.
 
 ## Built With
@@ -56,4 +53,4 @@ This project is licensed under the GPL-3.0 License, please see the LICENSE file 
 ## Acknowledgements
 Unfortunately, I could not include the sounds and music for Western World due to a EULA but this will not effect the project.
 
-Also thanks to [Tessa Violet](https://www.patreon.com/TessaViolet) for allowing LOFIs to be used by patreons with credit and the [TextMesh Pro](https://assetstore.unity.com/packages/essentials/beta-projects/textmesh-pro-84126) plug-in.
+Also thanks to [Tessa Violet](https://www.patreon.com/TessaViolet) for allowing LOFIs to be used by patreons with credit and the [TextMesh Pro](https://assetstore.unity.com/packages/essentials/beta-projects/textmesh-pro-84126) plug-in. :heart:
